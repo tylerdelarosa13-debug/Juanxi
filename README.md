@@ -2,7 +2,7 @@
 
 **Status del Sistema:** Órbita estable. Soporte vital al 100%.
 **Piloto Principal (SE):** Juanxi Pionjang
-**Directora de Investigación:** Alex de la Rosita 
+**Director de Investigación:** Alex de la Rosita 
 **Ubicación:** Cuadrante Nivel 26
 
 ---
