@@ -1,4 +1,4 @@
-# 🌌 MISSION: ENDURANCE - CÓDIGO BDAY-JVNDAR30-2026
+# 🌌 MISSION: ENDURANCE - CÓDIGO BDAY-JVNDAR26-2026
 
 **Status del Sistema:** Órbita estable. Soporte vital al 100%.
 **Piloto Principal (SE):** Juanxi Pionjang
